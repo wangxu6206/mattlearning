@@ -1,0 +1,4 @@
+htdocs/WEB-INF/
+data/assets/
+data/export/
+*.DS_Store
