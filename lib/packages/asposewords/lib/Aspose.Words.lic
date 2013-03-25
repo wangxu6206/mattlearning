@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<License>
+  <Data>
+    <LicensedTo>NSW Board of Studies</LicensedTo>
+    <LicenseType>Developer OEM</LicenseType>
+    <LicenseNote>Limited to 1 developer.</LicenseNote>
+    <OrderID>120829193837</OrderID>
+    <OEM>This is a redistributable license</OEM>
+    <Products>
+      <Product>Aspose.Words for Java</Product>
+    </Products>
+    <EditionType>Enterprise</EditionType>
+    <SerialNumber>d00d40e0-7b1a-4e01-bc54-f6826f595875</SerialNumber>
+    <SubscriptionExpiry>20130829</SubscriptionExpiry>
+    <LicenseVersion>2.2</LicenseVersion>
+  </Data>
+  <Signature>v6+mk1w5QBNFqognIoGOSdsm/pDnKoJAD26lSd93ChIREK3FzGT7xrUt8d1WgFogikETS7ZxLZBmqx4OPhyXTOmmAjhYPa20SIhGwyHOyBUQFhJ/KdMZC1ngnHaYO6BC7NAic+EvXw6WkNh3oJnelXN/GZQobpjf46+Jnayein0=</Signature>
+</License>
