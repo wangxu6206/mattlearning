@@ -82,6 +82,7 @@ component displayname="Rdfmanager" output="false"
 		}
 		catch(any e)
 		{
+			// dump the error if failed
 			writeDump(e);abort();
 		}
 
